@@ -32,6 +32,9 @@ module.exports = {
         hostname: 'img.freepik.com',
         pathname: '**',
       },
+      
     ],
   },
 };
+
+
