@@ -35,5 +35,9 @@
     "postcss": "latest",
     "sass": "^1.69.5",
     "tailwindcss": "latest"
-  }
+  },
+  "cacheDirectories": [
+    "node_modules/",
+    ".next/cache/"
+  ]
 }
